@@ -28,3 +28,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxrichard&count_private=true&show_icons=true&theme=dark&locale=pt-br&icon_color=d6d7ff&bg_color=DEG,0a1d3e,232686" />
 </p>
+
+<h2>Contador de curiosos: </h2>
+<p align="Left"><img src="https://profile-counter.glitch.me/%7Brxrichard%7D/count.svg" alt="AnhellO :: Visitor's Count" /></p>
