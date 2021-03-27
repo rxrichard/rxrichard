@@ -1,5 +1,5 @@
 <h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
-<img src="https://github.com/rxrichard/projeto-site/blob/master/images/img_perfil.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador rxrichard">
+<img src="https://github.com/rxrichard/projeto-site/blob/master/images/img_perfil.jpg" min-width="400px" max-width="475px" width="350px" align="right" alt="Computador rxrichard">
 <p>Me chamo <strong>Richard Bastos</strong> tenho <strong>25 anos</strong></p>
 <p>Estudante de Gestão em Tecnologia da Informação pela FATEC Jundiaí. </p>
 
