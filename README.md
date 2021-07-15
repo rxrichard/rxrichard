@@ -1,7 +1,7 @@
 <h1> Hi, welcome to my profile! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
 <img src="https://github.com/rxrichard/projeto-site/blob/master/images/img_perfil.jpg" min-width="400px" max-width="475px" width="350px" align="right" alt="Computador rxrichard">
 <p>My name is <strong>Richard Bastos</strong>. I have <strong>25</strong></p>
-<p>I'm a soon-to-be graduate in Information Technology Managementby FATEC Jundiaí. </p>
+<p>I'm a soon-to-be graduate in Information Technology Management by FATEC Jundiaí. </p>
 
 <h2>Main technologies and tools: </h2>
 <p class="row">
