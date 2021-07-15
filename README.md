@@ -1,9 +1,9 @@
 <h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
 <img src="https://github.com/rxrichard/projeto-site/blob/master/images/img_perfil.jpg" min-width="400px" max-width="475px" width="350px" align="right" alt="Computador rxrichard">
-<p>Me chamo <strong>Richard Bastos</strong> tenho <strong>25 anos</strong></p>
-<p>Estudante de Gestão em Tecnologia da Informação pela FATEC Jundiaí. </p>
+<p>My name is <strong>Richard Bastos</strong>. I have <strong>25</strong></p>
+<p>I'm a soon-to-be graduate in Information Technology Managementby FATEC Jundiaí. </p>
 
-<h2>Principais tecnologias e ferramentas: </h2>
+<h2>Main technologies and tools: </h2>
 <p class="row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px">
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30px">
@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
 </p>
 
-<h2>Meus contatos: </h2>
+<h2>Contact: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rxrichard/)](https://www.linkedin.com/in/rxrichard/)
 
@@ -23,10 +23,10 @@
 
 
  
-<h1 align="center">- Historicos de projetos -</h1>
+<h1 align="center">- Projects -</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxrichard&count_private=true&show_icons=true&theme=dark&locale=pt-br&icon_color=d6d7ff&bg_color=DEG,0a1d3e,232686" />
 </p>
 
-<h2>Contador de curiosos: </h2>
+<h2>Curious counter: </h2>
 <p align="Left"><img src="https://profile-counter.glitch.me/%7Brxrichard%7D/count.svg" alt="AnhellO :: Visitor's Count" /></p>
