@@ -5,22 +5,22 @@
 
 <h2>Main technologies and tools: </h2>
 <p class="row">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30px">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px">
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px" height='38px'>
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="36px"height='38px'>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="42px" height='38px'>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="38px" width='34px'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="38px" width='38px'>
 </p>
 
 <h2>Contact: </h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rxrichard/)](https://www.linkedin.com/in/rxrichard/)
+<a href="https://www.linkedin.com/in/rxrichard/" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"  height="40px" width='150px'/></a>
 
 <a href="https://api.whatsapp.com/send?phone=5511974490549" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511974490549"/></a>
+  <img src="https://img.shields.io/badge/-whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511974490549"  height="40px" width='150px'/></a>
 
-[![Outlook](https://img.shields.io/badge/-outlook-2196f3?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:rxrichard@outlook.com.br)](mailto:rxrichard@outlook.com.br)
-
+<a href="mailto:rxrichard@outlook.com.br" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-outlook-2196f3?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:rxrichard@outlook.com.br)"  height="40px" width='150px'/></a>
 
  
 <h1 align="center">- Projects -</h1>
